@@ -61,6 +61,10 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 }
 ```
 
+A demo implementation included
+
+You can find the built APK under demo/release
+
 ### License
 
 ```
