@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\varun.dhuldhoya\Downloads\PayCards_Android-master\sdk\.cxx\cmake\release\x86_64'
+ninja: no work to do.

@@ -1,0 +1,62 @@
+{
+  "buildFiles": [
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\compiler_id.cmake",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\armneon2x86sse\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\armneon2x86sse\\cmake\\Config.cmake.in",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\eigen\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\protobuf\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\caffe\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\libyuv\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\crossplatform\\CMakeLists.txt",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "cardrecognizer-Release-x86_64": {
+      "artifactName": "cardrecognizer",
+      "buildCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" cardrecognizer",
+      "abi": "x86_64",
+      "output": "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libcardrecognizer.so",
+      "runtimeFiles": []
+    },
+    "libyuv-Release-x86_64": {
+      "artifactName": "libyuv",
+      "buildCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" libyuv",
+      "abi": "x86_64",
+      "output": "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\\libyuv\\liblibyuv.a",
+      "runtimeFiles": []
+    },
+    "caffe-Release-x86_64": {
+      "artifactName": "caffe",
+      "buildCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" caffe",
+      "abi": "x86_64",
+      "output": "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\\caffe\\libcaffe.a",
+      "runtimeFiles": []
+    },
+    "crossplatform-Release-x86_64": {
+      "artifactName": "crossplatform",
+      "buildCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" crossplatform",
+      "abi": "x86_64",
+      "output": "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\\crossplatform\\libcrossplatform.a",
+      "runtimeFiles": []
+    },
+    "protobuf-Release-x86_64": {
+      "artifactName": "protobuf",
+      "buildCommand": "C:\\Users\\varun.dhuldhoya\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\" protobuf",
+      "abi": "x86_64",
+      "output": "C:\\Users\\varun.dhuldhoya\\Downloads\\PayCards_Android-master\\sdk\\.cxx\\cmake\\release\\x86_64\\protobuf\\libprotobuf.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Executable : C:\Users\varun.dhuldhoya\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\varun.dhuldhoya\Downloads\PayCards_Android-master\sdk\.cxx\cmake\release\x86_64
+cardrecognizer
+jvmArgs : 
+
